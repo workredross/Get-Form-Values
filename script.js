@@ -1,12 +1,12 @@
 $( document ).ready(function() {
   // Initialize Firebase
   var config = {
-    apiKey: "your key",
-    authDomain: "your domain",
-    databaseURL: "your url",
-    projectId: "name",
+    apiKey: "AIzaSyDvf1BkIw-IZ_NFFd1g_QI6qMLMrVFuXOk",
+    authDomain: "form-submit-44689.firebaseapp.com",
+    databaseURL: "https://form-submit-44689.firebaseio.com",
+    projectId: "form-submit-44689",
     storageBucket: "",
-    messagingSenderId: "XXXXXXX"
+    messagingSenderId: "559169214737"
     };
   
     firebase.initializeApp(config);
